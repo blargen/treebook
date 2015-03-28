@@ -29,6 +29,10 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="JRailsFacetType" url="file://$PROJECT_DIR$/config/routes.rb" />
+    <type id="JRUBY" />
+  </component>
   <component name="IdProvider" IDEtalkID="91B549C20610ADBE22F023C5BE79DC9A" />
   <component name="ProjectDictionaryState">
     <dictionary name="ebensmith" />
